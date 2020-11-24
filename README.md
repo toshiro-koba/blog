@@ -62,4 +62,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
  
  git commit --amend
  git merge
-コンフリクト
+ conflict
